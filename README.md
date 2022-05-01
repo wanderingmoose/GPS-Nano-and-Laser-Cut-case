@@ -1,4 +1,5 @@
 # GPS-Nano-and-Laser-Cut-case
+![gps] (/files/pictures/B.jpg)
 GPS module and Nano with 0.96" OLED Display in a laser cut enclosure
 Items used:
 Arduino Nano
