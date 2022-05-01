@@ -1,5 +1,6 @@
 # GPS-Nano-and-Laser-Cut-case
-![] (images/B.jpg)
+![](images/B.jpg)
+
 GPS module and Nano with 0.96" OLED Display in a laser cut enclosure
 Items used:
 Arduino Nano
@@ -18,3 +19,9 @@ Other information I learned from GPS and accuracy. If linked to less then 7 sati
 On startup the TELCO132 module can take 5 minutes to link to any satillites(Cool Start). Reading the data sheet for the TECLO132 will tell you more.
 The TELCO132 is a RS-232 serial unit, and is defaulted to 9600 8N1.
 
+![](images/A.jpg)
+![](images/C.jpg)
+![](images/D.jpg)
+![](images/E.jpg)
+![](images/F.jpg)
+![](images/G.jpg)
