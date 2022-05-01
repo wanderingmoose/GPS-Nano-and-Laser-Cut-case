@@ -19,6 +19,14 @@ Other information I learned from GPS and accuracy. If linked to less then 7 sati
 On startup the TELCO132 module can take 5 minutes to link to any satillites(Cool Start). Reading the data sheet for the TECLO132 will tell you more.
 The TELCO132 is a RS-232 serial unit, and is defaulted to 9600 8N1.
 
+GPS and OLED module are 5v. 
+GPS TX(D11)
+    RX(D12)
+OLED I2C
+A4 and A5
+    
+    
+
 ![](images/A.jpg)
 ![](images/C.jpg)
 ![](images/D.jpg)
