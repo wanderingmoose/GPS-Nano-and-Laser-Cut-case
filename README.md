@@ -24,9 +24,12 @@ GPS TX(D11)
     RX(D12)
 OLED I2C
 A4 and A5
-    
-    
 
+Wish list:
+Change the case's front to a banett cover like the back.
+Add battery voltage.
+Change the case design to use less wood and make it easier to align up the pieces.
+Make a dual OLED case to allow for bigger digits.
 ![](images/A.jpg)
 ![](images/C.jpg)
 ![](images/D.jpg)
